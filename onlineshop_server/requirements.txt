@@ -1,0 +1,15 @@
+Django==3.0
+mysqlclient
+djangorestframework
+Markdown
+django-filter
+django-guardian
+django-request-mapping
+coreapi
+django-cors-headers
+future
+django-crispy-forms
+Pillow
+django-simpleui
+django-crispy-forms
+coreschema
