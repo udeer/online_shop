@@ -1,1 +1,2 @@
-#online-store
+cnpm install
+npm run dev
